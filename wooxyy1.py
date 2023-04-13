@@ -36,7 +36,7 @@ if [[ ! -d ".server" ]]; then
 
 	mkdir -p ".server"
 
-fi
+if
 
 if [[ -d ".server/www" ]]; then
 
